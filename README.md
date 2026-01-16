@@ -4,13 +4,23 @@ An interactive Power BI dashboard designed to help pharmacy owners
 monitor inventory efficiently and make fast, data-driven decisions.
 
 ---
+## 📸 Dashboard Preview
 
-## 🔗 Live Dashboard
-Explore the dynamic Power BI dashboard here:  
-👉 https://app.powerbi.com/links/wvBZhvMmT6
+
+### Inventory home
+![Home](https://github.com/mernanabil1012-eng/Pharmacy-Inventory-Dashboard-PowerBI/blob/main/0.png)
+
+### Inventory Overview
+![Overview](https://github.com/mernanabil1012-eng/Pharmacy-Inventory-Dashboard-PowerBI/blob/main/Screenshot%202026-01-16%20031848.png)
+
+### Stock Alerts
+![Stock Alerts](https://github.com/mernanabil1012-eng/Pharmacy-Inventory-Dashboard-PowerBI/blob/main/Screenshot%202026-01-16%20031909.png)
+
+### Supplier Risk Analysis
+![Supplier](https://github.com/mernanabil1012-eng/Pharmacy-Inventory-Dashboard-PowerBI/blob/main/Screenshot%202026-01-16%20031929.png)
+
 
 ---
-
 ## 📌 Project Overview
 This dashboard focuses on **inventory visibility and stock risk** using a small dataset,
 proving that meaningful insights don’t require big data.
@@ -43,6 +53,12 @@ proving that meaningful insights don’t require big data.
 - Data Visualization & UX Design  
 
 ---
+## 🔗 Live Dashboard
+Explore the dynamic Power BI dashboard here:  
+👉 https://app.powerbi.com/links/wvBZhvMmT6
+
+---
+
 
 ## 👩‍💻 Created by
 **Merna Nabil**  
